@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc36"
+  },
+  "nombre": "Javier hernandez",
+  "jugador": "Julio jaramillo"
+},
+{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc37"
+  },
+  "nombre": "Pope cardenas",
+  "jugador": "Esteban linares"
+},
+{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc38"
+  },
+  "nombre": "Fernando acuña",
+  "jugador": "Estefania neira"
+},
+{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc39"
+  },
+  "nombre": "fernando pachon",
+  "jugador": "Juan boada"
+},
+{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc3a"
+  },
+  "nombre": "Felipe urrego",
+  "jugador": "Paola benites"
+},
+{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc3b"
+  },
+  "nombre": "Pedro almanza",
+  "jugador": "Camilo jaramillo"
+},
+{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc3c"
+  },
+  "nombre": "Octavio castro",
+  "jugador": "Oscar blanco"
+},
+{
+  "_id": {
+    "$oid": "6738bbb10f941ce40434bc3d"
+  },
+  "nombre": "Jorge segura",
+  "jugador": "Andrea campos"
+}]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc2c"
+  },
+  "nombre": "Camilo jaramillo",
+  "edad": 24,
+  "ranking": 7
+},
+{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc2d"
+  },
+  "nombre": "Andrea campos",
+  "edad": 28,
+  "ranking": 2
+},
+{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc2e"
+  },
+  "nombre": "Julio jaramillo",
+  "edad": 24,
+  "ranking": 1
+},
+{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc2f"
+  },
+  "nombre": "Paola benites",
+  "edad": 30,
+  "ranking": 5
+},
+{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc30"
+  },
+  "nombre": "Esteban linares",
+  "edad": 31,
+  "ranking": 8
+},
+{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc31"
+  },
+  "nombre": "Juan boada",
+  "edad": 35,
+  "ranking": 4
+},
+{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc32"
+  },
+  "nombre": "Oscar blanco",
+  "edad": 18,
+  "ranking": 7
+},
+{
+  "_id": {
+    "$oid": "6738ba220f941ce40434bc33"
+  },
+  "nombre": "Estefania neira",
+  "edad": 20,
+  "ranking": 3
+}]

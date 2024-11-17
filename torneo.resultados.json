@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6738c0f80f941ce40434bc5a"
+  },
+  "partido": "Cuartos de Final 1",
+  "ganador": "Camilo jaramillo",
+  "perdedor": "Estefania neira",
+  "puntos": "11-1"
+},
+{
+  "_id": {
+    "$oid": "6738c0f80f941ce40434bc5b"
+  },
+  "partido": "Cuartos de Final 2",
+  "ganador": "Andrea campos",
+  "perdedor": "Oscar blanco",
+  "puntos": "11-9"
+},
+{
+  "_id": {
+    "$oid": "6738c0f80f941ce40434bc5c"
+  },
+  "partido": "Cuartos de Final 3",
+  "ganador": "Julio jaramillo",
+  "perdedor": "Juan boada",
+  "puntos": "11-6"
+},
+{
+  "_id": {
+    "$oid": "6738c0f80f941ce40434bc5d"
+  },
+  "partido": "Cuartos de Final 4",
+  "ganador": "Paola benites",
+  "perdedor": "Esteban linares",
+  "puntos": "11-10"
+},
+{
+  "_id": {
+    "$oid": "6738c0f80f941ce40434bc5e"
+  },
+  "partido": "Semifinal 1",
+  "ganador": "Camilo jaramillo",
+  "perdedor": "andrea campos",
+  "puntos": "11-7"
+},
+{
+  "_id": {
+    "$oid": "6738c0f80f941ce40434bc5f"
+  },
+  "partido": "Semifinal 2",
+  "ganador": "Paola benites",
+  "perdedor": "Julio jaramillo",
+  "puntos": "11-9"
+},
+{
+  "_id": {
+    "$oid": "6738c0f80f941ce40434bc60"
+  },
+  "partido": "Final",
+  "ganador": "camilo jaramillo",
+  "perdedor": "paola benites",
+  "puntos": "11-8"
+}]

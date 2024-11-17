@@ -1,0 +1,48 @@
+[{
+    "jugador": "Camilo Jaramillo",
+    "partidos_jugados": 3,
+    "partidos_ganados": 3,
+    "partidos_perdidos": 0
+},
+{
+    "jugador": "Estefania neira",
+    "partidos_jugados": 1,
+    "partidos_ganados": 0,
+    "partidos_perdidos": 1
+},
+{
+    "jugador": "Andrea campos",
+    "partidos_jugados": 2,
+    "partidos_ganados": 1,
+    "partidos_perdidos": 1
+},
+{
+    "jugador": "Oscar blanco",
+    "partidos_jugados": 1,
+    "partidos_ganados": 0,
+    "partidos_perdidos": 1
+},
+{
+    "jugador": "Julio jaramillo",
+    "partidos_jugados": 2,
+    "partidos_ganados": 1,
+    "partidos_perdidos": 1
+},
+{
+    "jugador": "Juan boada",
+    "partidos_jugados": 1,
+    "partidos_ganados": 0,
+    "partidos_perdidos": 1
+},
+{
+    "jugador": "Paola benites",
+    "partidos_jugados": 3,
+    "partidos_ganados": 2,
+    "partidos_perdidos": 1
+},
+{
+    "jugador": "Esteban linares",
+    "partidos_jugados": 1,
+    "partidos_ganados": 0,
+    "partidos_perdidos": 1
+}]

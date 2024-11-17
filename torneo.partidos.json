@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6738bfad0f941ce40434bc51"
+  },
+  "ronda": "Cuartos de Final",
+  "jugador1": "Camilo jaramillo",
+  "jugador2": "Estefania neira",
+  "arbitro": "Mario cano"
+},
+{
+  "_id": {
+    "$oid": "6738bfad0f941ce40434bc52"
+  },
+  "ronda": "Cuartos de Final",
+  "jugador1": "Andrea campos",
+  "jugador2": "Oscar blanco",
+  "arbitro": "Felipe ruiz"
+},
+{
+  "_id": {
+    "$oid": "6738bfad0f941ce40434bc53"
+  },
+  "ronda": "Cuartos de Final",
+  "jugador1": "Julio jaramillo",
+  "jugador2": "Juan boada",
+  "arbitro": "Alex guerrero"
+},
+{
+  "_id": {
+    "$oid": "6738bfad0f941ce40434bc54"
+  },
+  "ronda": "Cuartos de Final",
+  "jugador1": "Paola benites",
+  "jugador2": "Esteban linares",
+  "arbitro": "Hugo sanchez"
+},
+{
+  "_id": {
+    "$oid": "6738bfad0f941ce40434bc55"
+  },
+  "ronda": "Semifinal",
+  "jugador1": "Camilo jaramillo",
+  "jugador2": "Andrea campos",
+  "arbitro": "Mario cano"
+},
+{
+  "_id": {
+    "$oid": "6738bfad0f941ce40434bc56"
+  },
+  "ronda": "Semifinal",
+  "jugador1": "Julio jaramillo",
+  "jugador2": "Paola benites",
+  "arbitro": "Felipe ruiz"
+},
+{
+  "_id": {
+    "$oid": "6738bfad0f941ce40434bc57"
+  },
+  "ronda": "Final",
+  "jugador1": "Camilo jaramillo",
+  "jugador2": "Paola benites",
+  "arbitro": "Alex guerrero"
+}]

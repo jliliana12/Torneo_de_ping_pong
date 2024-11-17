@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6738bc850f941ce40434bc44"
+  },
+  "nombre": "Mario cano",
+  "experiencia": 5
+},
+{
+  "_id": {
+    "$oid": "6738bc850f941ce40434bc45"
+  },
+  "nombre": "Felipe ruiz",
+  "experiencia": 7
+},
+{
+  "_id": {
+    "$oid": "6738bc850f941ce40434bc46"
+  },
+  "nombre": "Alex guerrero",
+  "experiencia": 6
+},
+{
+  "_id": {
+    "$oid": "6738bc850f941ce40434bc47"
+  },
+  "nombre": "Hugo sanchez",
+  "experiencia": 8
+}]
